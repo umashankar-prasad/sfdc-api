@@ -5,3 +5,41 @@ SFDC_PASSWORD	QsWYD8VX?*tw*LEspe%@F@joyP6s3yhwkrlbspEojakvj0d
 SFDC_USERNAME	system@mpowerfinancing.com
 ZD_TOKEN	asa5LxgoOD2uPhmaJhqn4f0IprFhiAxBO3UiTrQ3
 ZD_USERNAME	mpoweradmin@mpowerfinancing.com
+
+  {
+    "name" : "SFDC_HOSTNAME",
+    "value" : "https://mpower.my.salesforce.com"
+  },
+  {
+    "name" : "SFDC_OAUTH_URL",
+    "value" : "https://mpower.my.salesforce.com/services/oauth2/token"
+  },
+  {
+    "name" : "SFDC_BASE_URL",
+    "value" : "https://mpower.my.salesforce.com/services/apexrest/"
+  },
+  {
+    "name" : "SFDC_TOKEN_EXPIRY",
+    "value" : "720"
+  },
+  {
+    "name" : "DB_ENGINE",
+    "value" : "django.db.backends.postgresql_psycopg2"
+  },
+  {
+    "name" : "DB_NAME",
+    "value" : "data_warehouse"
+  },
+  {
+    "name" : "DB_HOST",
+    "value" : "datawarehouse.ccsmyeislqw7.us-east-1.rds.amazonaws.com"
+  },
+  {
+    "name" : "DB_PORT",
+    "value" : "5432"
+  },
+  {
+    "name" : "DD_SERVICE",
+    "value" : "ms-auth-prod"
+  },
+  {
